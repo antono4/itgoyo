@@ -1,2 +1,26 @@
-Last updated: 2026-09-04 15:59:19 WIB
-Last updated: 2026-09-04 16:11:30 WIB
+# itgoyo
+
+
+
+## 📋 Overview
+
+This repository contains **26 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 16:20:34 WIB*
